@@ -2,6 +2,7 @@ import { Inter } from 'next/font/google'
 import Navbar from '@/Components/Navbar'
 import Header from '@/Components/Header'
 import ApplyToDrive from '@/Components/ApplyToDrive'
+import TereWorks from '@/Components/TereWorks'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -17,7 +18,7 @@ export default function Home() {
 
         <Header />
         <ApplyToDrive />
-
+        <TereWorks />
       </div>
 
 

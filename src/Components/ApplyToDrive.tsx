@@ -3,7 +3,7 @@ const ApplyToDrive = () => {
 
 
     return (
-        <div className="w-[80vw] lg:w-[90vw] mx-auto rounded-md h-[350px] md:h-[150px] font-serif bg-[#78c968d1] p-5 my-16 flex flex-col md:flex-row justify-between items-center lg:px-10" >
+        <div className="w-[80vw] lg:w-[90vw] mx-auto rounded-md h-[350px] md:h-[150px] font-serif bg-[#68c96bdd] p-5 my-16 flex flex-col md:flex-row justify-between items-center lg:px-10" >
             <h1 className="text-2xl sm:text-3xl md:text-sm xl:text-lg font-semibold text-center text-white mt-10 mb-5 md:mt-0 md:mb-0 mx-auto md:mx-0 md:w-[200px]">Let's go. Get a link to download the app.</h1>
 
             <div className="flex flex-col md:flex-row gap-3">

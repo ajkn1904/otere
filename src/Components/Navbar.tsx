@@ -7,7 +7,7 @@ const Navbar = () => {
         <li><Link href='/' className='btn btn-ghost rounded font-semibold font-serif text-black hover:bg-green-600 hover:text-white'>Home</Link></li>
         <li><Link href='/' className='btn btn-ghost rounded font-semibold font-serif text-black hover:bg-green-600 hover:text-white'>How tere works</Link></li>
         <li><Link href='/' className='btn btn-ghost rounded font-semibold font-serif text-black hover:bg-green-600 hover:text-white'>Tere benefits</Link></li>
-        <li><Link href='/' className='btn btn-ghost bg-[#78c968] text-white rounded font-semibold font-serif hover:bg-green-600 hover:text-white'>Help Center</Link></li>
+        <li><Link href='/' className='btn btn-ghost bg-[#68c96bdd] text-white rounded font-semibold font-serif hover:bg-green-600 hover:text-white'>Help Center</Link></li>
 
 
 
