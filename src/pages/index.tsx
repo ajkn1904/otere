@@ -4,6 +4,7 @@ import Header from '@/Components/Header'
 import ApplyToDrive from '@/Components/ApplyToDrive'
 import TereWorks from '@/Components/TereWorks'
 import Benefits from '@/Components/Benefits'
+import Footer from '@/Components/Footer'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -15,13 +16,16 @@ export default function Home() {
 
       <Navbar />
 
-      <div className='bg-gray-100'>
+      <div className='bg-gray-100 lg:border-b font-serif'>
 
         <Header />
         <ApplyToDrive />
         <TereWorks />
         <Benefits/>
+        
       </div>
+
+      <Footer/>
 
 
     </main>

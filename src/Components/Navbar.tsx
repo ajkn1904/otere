@@ -21,7 +21,7 @@ const Navbar = () => {
             </div>
 
 
-            <div className="navbar-end hidden lg:flex">
+            <div className="navbar-end hidden lg:flex w-[700px]">
                 <ul className="menu menu-horizontal p-0">
                     {menu}
                 </ul>

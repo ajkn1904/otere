@@ -1,7 +1,7 @@
 
 const Benefits = () => {
     return (
-        <div className="w-[90vw] mx-auto px-10">
+        <div className="w-[90vw] mx-auto px-10 pb-16">
 
             <div className="flex flex-col lg:flex-row justify-around items-center bg-white rounded-lg my-16 px-5 xl:px-0 lg:w-[80vw]">
                 <div className="">
